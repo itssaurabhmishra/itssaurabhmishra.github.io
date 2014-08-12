@@ -116,16 +116,16 @@ prose:
           options:
             - name: "Personal"
               value: personal
-            - name: "Engineering"
-              value: engineering
-            - name: "Physics"
-              value: physics
+            - name: "Philosophy"
+              value: philosophy
+            - name: "Technology"
+              value: technology
             - name: "Psychology"
               value: psychology
             - name: "Interesting"
               value: interesting
-            - name: "Web-Development"
-              value: webdevelopment
+            - name: "Pyshcedelic"
+              value: pyschic
           alterable: true
       - name: "tags"
         field:
@@ -152,24 +152,23 @@ prose:
           element: "checkbox"
           label: "Comments"
           value: false
-      - name: "chart"
-        field:
-          element: "checkbox"
-          label: "Chart?"
-          value: false
-      - name: "charttype"
-        field:
-          element: "select"
-          label: "Select Chart Type"
-          placeholder: "Choose Type"
-          value:
-          options:
-            - name: "None"
-              value: 
-            - name: "pie"
-              value: pie
-            - name: "serial"
-              value: serial
+    #  - name: "chart"
+     ##    element: "checkbox"
+      #    label: "Chart?"
+      #    value: false
+     # - name: "charttype"
+       # field:
+      #    element: "select"
+        #  label: "Select Chart Type"
+         # placeholder: "Choose Type"
+         # value:
+         # options:
+          #  - name: "None"
+          #    value: 
+          #  - name: "pie"
+          #    value: pie
+          # - name: "serial"
+           #   value: serial
 
 
 include: [".htaccess"]
