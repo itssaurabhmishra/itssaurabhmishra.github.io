@@ -1,3 +1,9 @@
+This is the weblog of Mr.Saurabh Mishra a Principal Researcher at Upscale Consulting, 
+
+This blog has been cooked using various ingridients such as Jekyll and Github and a theme called notebook, 
+
+which has the following desc 
+
 Notepad is a Jekyll theme which is very simple, clean and beautiful. This theme is good for any blog.
   
 Main Features:
@@ -20,8 +26,8 @@ Credits:
 * Codrops article: [http://tympanus.net/codrops/2014/05/22/inspiration-for-article-intro-effects/](http://tympanus.net/codrops/2014/05/22/inspiration-for-article-intro-effects/)
 * There are also tools like jQuery, Modernizr, Normalize.
 
-If you'd like to give me credit somewhere on your blog or tweet a shout out to [@hmfaysal](https://twitter.com/hmfaysal), that would be pretty sweet.
+Tweet a shout out to  us [@theupscale](https://twitter.com/theupscale), that would be pretty sweet.
 
 
 Warm Regards and Stay Creative,  
-Hossain Mohd. Faysal
+Upscale Tech Team
