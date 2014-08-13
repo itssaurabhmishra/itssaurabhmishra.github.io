@@ -1,5 +1,5 @@
 title:            Saurabh Mishra
-description:      "My Regular Life"
+description:      "My mindspace on the web"
 logo:             logo.png
 disqus_shortname: saurabh
 share:            true
@@ -17,14 +17,14 @@ owner:
   avatar:         
   email:          saurabh@theupscale.in
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
-  description:    Awesome Dude, Awesome Life
+  description:    Objectively Subjective Thinker, Researcher and Entrepreneur.
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        saurabhmishra
-  facebook:       saurabhmishra
-  github:         saurabhmishra      
-  instagram:      saurabhmishra
+  twitter:        ipsycho
+  facebook:       saurabh.mishra
+  github:         itssaurabhmishra      
+  instagram:      
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:    
+  google_plus:+SaurabhMishra91    
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:   
